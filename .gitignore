@@ -1,0 +1,17 @@
+# Compiled Java classes
+*.class
+*.jar
+
+# Auto-generated data files
+inventory.dat
+sales.dat
+report.txt
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+out/
+
+# OS files
+Thumbs.db
+.DS_Store
